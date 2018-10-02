@@ -1,0 +1,7 @@
+{
+  "name": "IonicWebView",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
